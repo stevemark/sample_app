@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ESProjectShowHiddenFilesKey</key>
+	<false/>
+	<key>ESProjectWindowState</key>
+	<dict>
+		<key>ContentSize</key>
+		<string>{1106, 705}</string>
+		<key>ProjectURL</key>
+		<string>file://localhost/Users/teresasteve/rails_projects/sample_app/sample_app.esproj/</string>
+		<key>StateType</key>
+		<string>ProjectWindow</string>
+		<key>TopLeftPoint</key>
+		<string>{334, 864}</string>
+	</dict>
+	<key>com.macrabbit.Espresso.FileManager.DisclosureCollapsed</key>
+	<false/>
+	<key>com.macrabbit.Espresso.FileManager.FileControllerState</key>
+	<dict>
+		<key>ExpandedURLs</key>
+		<array>
+			<string>file://localhost/Users/teresasteve/rails_projects/sample_app/app/controllers</string>
+			<string>file://localhost/Users/teresasteve/rails_projects/sample_app/app/views/layouts</string>
+			<string>file://localhost/Users/teresasteve/rails_projects/sample_app/config</string>
+			<string>file://localhost/Users/teresasteve/rails_projects/sample_app/spec/controllers</string>
+			<string>file://localhost/Users/teresasteve/rails_projects/sample_app/spec/requests</string>
+		</array>
+	</dict>
+	<key>com.macrabbit.Espresso.Publisher.DisclosureCollapsed</key>
+	<false/>
+	<key>com.macrabbit.Espresso.Workspace.Tabs</key>
+	<dict>
+		<key>Tabs</key>
+		<array>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/teresasteve/rails_projects/sample_app/config/routes.rb</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/teresasteve/rails_projects/sample_app/app/views/layouts/application.html.erb</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/teresasteve/rails_projects/sample_app/app/views/layouts/_header.html.erb</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/teresasteve/rails_projects/sample_app/spec/controllers/users_controller_spec.rb</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/teresasteve/rails_projects/sample_app/app/controllers/users_controller.rb</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/teresasteve/rails_projects/sample_app/spec/requests/layout_links_spec.rb</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.macrabbit.Espresso.WorkspaceTabs.DisclosureCollapsed</key>
+	<false/>
+</dict>
+</plist>
